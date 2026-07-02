@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zaatar-bengaluru-bellandur-website/static/css/main.295d22d8.css",
+    "main.js": "/zaatar-bengaluru-bellandur-website/static/js/main.3ed69ace.js",
+    "index.html": "/zaatar-bengaluru-bellandur-website/index.html",
+    "main.295d22d8.css.map": "/zaatar-bengaluru-bellandur-website/static/css/main.295d22d8.css.map",
+    "main.3ed69ace.js.map": "/zaatar-bengaluru-bellandur-website/static/js/main.3ed69ace.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.295d22d8.css",
+    "static/js/main.3ed69ace.js"
+  ]
+}
